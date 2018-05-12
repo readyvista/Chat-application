@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 19 16:10:58 CST 2018:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@6d06d69c 引导数据库
+目录 E:\计算机网络课程设计课件\网络课程设计第三次课资料\ChatExample1(第三次课开始)\USERDB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0162-dcf4-df6b-00000a569e10
+已从 file:/C:/Program%20Files/Java/jdk1.8.0_162/db/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-b12
+user.dir=E:\计算机网络课程设计课件\网络课程设计第三次课资料\ChatExample1(第三次课开始)
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
